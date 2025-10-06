@@ -1,6 +1,6 @@
 {
   "name": "cortico",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
   "main": "src/index.ts",
   "scripts": {
